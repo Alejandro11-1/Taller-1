@@ -1,0 +1,13 @@
+tipo:energia:1:999999.0
+tipo:gas:70000:123456.0
+tipo:cr7:7777:77777.0
+tipo:hidrocarburos:10101:111111.0
+surtidor:Duran:energia:0.0:gas:0.0:cr7:0.0:hidrocarburos:0.0
+surtidor:Cordoba:energia:0.0:gas:0.0:cr7:0.0:hidrocarburos:0.0
+surtidor:Rueda:energia:0.0:gas:0.0:cr7:0.0:hidrocarburos:0.0
+surtidor:Duran:energia:0.0:gas:0.0:cr7:0.0:hidrocarburos:0.0
+empleado:Cordoba:0
+empleado:borre:0
+empleado:Rueda:0
+empleado:Duvan:0
+empleado:Duran:0
